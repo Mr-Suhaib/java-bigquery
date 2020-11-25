@@ -1,5 +1,18 @@
 # Changelog
 
+### [1.125.1](https://www.github.com/googleapis/java-bigquery/compare/v1.125.0...v1.125.1) (2020-11-25)
+
+
+### Bug Fixes
+
+* update listPartitions() to support tables from other projects ([#974](https://www.github.com/googleapis/java-bigquery/issues/974)) ([1739d57](https://www.github.com/googleapis/java-bigquery/commit/1739d57c59cfb6b90ccf3fcc9c07d1449fc17238))
+
+
+### Documentation
+
+* **samples:** add create external table using hivepartitioningoptions ([#969](https://www.github.com/googleapis/java-bigquery/issues/969)) ([3994be6](https://www.github.com/googleapis/java-bigquery/commit/3994be62b63b4b56944499c10b42d77ced4ab33c))
+* **samples:** add export model ([#970](https://www.github.com/googleapis/java-bigquery/issues/970)) ([2edad15](https://www.github.com/googleapis/java-bigquery/commit/2edad15764f144268f1bd3052d1d0ac069a2f377))
+
 ## [1.125.0](https://www.github.com/googleapis/java-bigquery/compare/v1.124.7...v1.125.0) (2020-11-19)
 
 
